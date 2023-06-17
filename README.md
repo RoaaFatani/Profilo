@@ -1,5 +1,4 @@
 # Profilo
-HTML, CSS, JavaScript and Bootstrap 5 Portfolio Website
 
 I used in developing my website: 
 * HTML, CSS and JavaScript
